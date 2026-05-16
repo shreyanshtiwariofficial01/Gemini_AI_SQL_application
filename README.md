@@ -1,5 +1,3 @@
-# Gemini_AI_SQL_application
-
 # 📌 Gemini SQL Query Generator (with SQLite + Streamlit)
 
 This project uses **Google Gemini** to convert **natural language questions** into **SQL queries**, runs them on an SQLite database, and displays the results using **Streamlit**.
