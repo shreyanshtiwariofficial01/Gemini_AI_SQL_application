@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+sqlite3
+
+
+# ls
+#  cd GenAI-Gemini_SQL_application-main
+# python -m streamlit run app.py
